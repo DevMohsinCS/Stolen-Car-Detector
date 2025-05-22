@@ -11,6 +11,7 @@ A stolen car detection system that detects license plate numbers of cars in a gi
 ## Table of Contents
 
 - [Overview](#overview)
+- [Achievements](#achievements)
 - [Tools and Technologies](#tools-and-technologies)
 - [How to Get It Running](#how-to-get-it-running)
 - [Methodology](#methodology)
